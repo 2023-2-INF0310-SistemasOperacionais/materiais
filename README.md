@@ -1,4 +1,4 @@
-# materiais
+# INF0310 - Sistemas Operacionais
 Materiais de INF0310
 
 ## Aula de 06/10/2023
