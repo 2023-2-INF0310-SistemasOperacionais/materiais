@@ -2,7 +2,7 @@
 Materiais de INF0310
 
 ## Aulas
-[vídeos](https://drive.google.com/drive/folders/13yPE7sOWP3H-XK_Lh3zdA6WMV-2LYMVA?usp=sharing)
+[shared](https://drive.google.com/drive/folders/13yPE7sOWP3H-XK_Lh3zdA6WMV-2LYMVA?usp=sharing)
 
 ## Atividades
 [ATIVIDADE 13/10/2023]()
